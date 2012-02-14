@@ -1,0 +1,13 @@
+[include "fuel"]
+	path = fuel
+	url = https://github.com/fuel/fuel.git
+  ref = 1.1/master
+  
+[include "sorcery"]
+	path = sorcery
+	url = https://github.com/NoamB/sorcery.git
+  ref = master
+
+[include "composer"]
+	path = composer
+	url = https://github.com/composer/composer.git
